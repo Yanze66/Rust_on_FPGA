@@ -72,3 +72,6 @@ Go to the DIR and run the executable file, for my case, that's called keccak
       chmod +x keccak
 
       ./keccak
+
+# Any possible issue
+Maybe I ignore some steps because it's 11 pm and I'm typing these words with my tired mind in case I forget it tmr. Pls go easy with this tutorial and feel free to reach out to me if you find any issue.  
