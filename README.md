@@ -50,7 +50,9 @@ then compile with:
 
         cargo build --release --target aarch64-unknow-linux-gnu -p binius-examples --example keccak  ( as an apple-to-apple comparison, command on PC is "cargo run --release --package binius-examples --example keccak"
 
-after compilation, you should find a executable file in DIR:   Binius64-main/target/aarch64-unknown-linus-gnu/release/examples
+after compilation, you should find a executable file in DIR:  
+
+    DIR: Binius64-main/target/aarch64-unknown-linus-gnu/release/examples
 
 then scp your file to the Petalinux with
 
