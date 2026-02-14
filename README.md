@@ -32,7 +32,7 @@ I would like to skip this stage cause you may find reference in vitis official p
 
          dnf install gcc
   
-  something else.
+  installed whatever you need, difference is that it use dnf rather than apt on Ubuntu.
 
 # Cross-compile executable rust file
  You can choose to install RUST environment on Petalinux, but usually a more efficient way is to cross-compile on your PC (mine is Ubuntu), and scp your executable file to the petalinux, to do that, you first install the target platform which execut the project, so on your PC:
